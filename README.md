@@ -38,6 +38,7 @@ dbt (dbt-duckdb) · DuckDB/MotherDuck · Kimball star schema · 56 passing tests
 
 | Project | What it does | Stack |
 |---|---|---|
+| [analytics-architecture-decisions](https://github.com/itw-code/analytics-architecture-decisions) | Architecture Decision Records on warehouse cost-optimization & materialization | Architecture Docs · ClickHouse · BigQuery · Airflow |
 | [donatur-helper](https://github.com/itw-code/donatur-helper) | Team donation & bill-splitting app ([live demo](https://don4tpro.pages.dev)) | Vanilla JS · Supabase · Cloudflare Pages |
 | [nusantara-palm-sentinel-mvp](https://github.com/itw-code/nusantara-palm-sentinel-mvp) | Agritech ops dashboard with weather forecasting & CPO pricing | Python · Flask · Open-Meteo · pytest |
 | [Kids-Learning-Hub](https://github.com/itw-code/Kids-Learning-Hub) | Ad-free PWA educational portal for children | React 19 · TypeScript · Playwright |

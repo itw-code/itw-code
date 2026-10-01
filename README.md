@@ -8,12 +8,15 @@
 
 Senior BI Executive at **SawitPRO** with ~6 years in data & business intelligence across Indonesian palm-oil agritech. I build production data pipelines, Kimball dimensional models, and end-to-end analytics engineering solutions. Currently seeking **remote Analytics Engineer** roles.
 
-### 🔗 Flagship Project
+### 🔗 Featured Projects
 
 **[palm-analytics-dbt](https://github.com/itw-code/palm-analytics-dbt)** — End-to-end analytics engineering pipeline on Indonesian palm-oil operations.  
-dbt (dbt-duckdb) · DuckDB/MotherDuck · Kimball star schema · 56 passing tests · SCD2 snapshots · Evidence.dev dashboard · GitHub Actions CI/CD
-
+dbt (dbt-duckdb) · DuckDB · 23 models (`staging` → `intermediate` → `marts`) · **99 passing tests** · SCD2 snapshots · model contracts · Evidence.dev · GitHub Actions CI/CD  
 👉 **[Live Dashboard →](https://itw-code.github.io/palm-analytics-dbt/)**
+
+**[developer-marketing-measurement-dbt](https://github.com/itw-code/developer-marketing-measurement-dbt)** — Marketing measurement for developer-tooling and PLG companies.  
+Attribution triangulation: Multi-Touch Attribution + Media Mix Modeling (adstock & saturation) + Incrementality testing (geo-lift, holdouts) · 15 models · 19 passing tests · MIT  
+👉 **[Live Showcase →](https://itw-code.github.io/developer-marketing-measurement-dbt/)**
 
 ### Tech Stack
 
